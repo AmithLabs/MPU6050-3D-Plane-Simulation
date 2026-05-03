@@ -68,14 +68,16 @@ The full build process is available on the **AmithLabs YouTube channel**.
 
 The main Processing sketch is included in this repository:
 
+![Aircraft Orientation](Aircraft_Axis.png)
+
+⚠️ Note: Sensor orientation depends on how the MPU6050 is mounted.
+
 ```text
 Plane_Sim_3D.pde
 
 ## Aircraft Orientation & Tuning
 
-![Aircraft Orientation](Aircraft_Axis.png)
 
-> ⚠️ Note: Sensor orientation depends on how the MPU6050 is mounted.
 
 If your aircraft is moving in the wrong direction, you only need to edit **ONE line** in the code:
 
