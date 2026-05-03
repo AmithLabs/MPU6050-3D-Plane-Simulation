@@ -70,3 +70,15 @@ The main Processing sketch is included in this repository:
 
 ```text
 Plane_Sim_3D.pde
+
+## Aircraft Orientation & Tuning
+
+![Aircraft Orientation](Aircraft_Axis.png)
+
+If your aircraft is moving in the wrong direction, you only need to edit **ONE line** in the code.
+
+Full step-by-step guide available here:
+
+👉 [Download Orientation Fix Guide](Aircraft Orientation Fix Guide.pdf)
+
+> ⚠️ Note: Sensor orientation may vary depending on how the MPU6050 is mounted.
