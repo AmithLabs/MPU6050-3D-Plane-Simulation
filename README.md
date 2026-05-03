@@ -1,9 +1,9 @@
 # MPU6050 3D Aircraft Simulation
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/J5xsSNErhL8/0.jpg)](https://youtu.be/J5xsSNErhL8)
 
 📺 **Watch the Full Build Video on YouTube**
-https://youtu.be/YOUR_VIDEO_ID
+https://youtu.be/J5xsSNErhL8
 
 ---
 
