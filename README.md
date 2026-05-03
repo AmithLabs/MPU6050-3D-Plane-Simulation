@@ -76,6 +76,8 @@ Plane_Sim_3D.pde
 
 ⚠️ Note: Sensor orientation depends on how the MPU6050 is mounted.
 
+👉 [Download Orientation Fix Guide](Aircraft Orientation Fix Guide.pdf)
+
 ```text
 
 If your aircraft is moving in the wrong direction, you only need to edit **ONE line** in the code:
